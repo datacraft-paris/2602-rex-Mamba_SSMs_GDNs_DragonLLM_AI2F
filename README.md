@@ -24,7 +24,7 @@ Ce retour d’expérience propose de présenter les dernières améliorations en
 
 [​Raphaelle Achach](https://www.linkedin.com/in/raphaelle-achach-b7239a114/), Project Manager au sein de l'IA2F (IA Factory Française), présentera la vision, les services et les moyens mis en place pour aider les entreprises sur les sujets IA au sein de l'AI2F.
 
-> [Support de présentation AI2F(./20260203-rex-GENCI_AI2F.pdf)
+> [Support de présentation AI2F](./20260203-rex-GENCI_AI2F.pdf)
 
 ---
 
